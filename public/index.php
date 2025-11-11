@@ -6,12 +6,12 @@
     <ul class="list">
       <li><a class="btn" href="create.php">Create</a> <span class="muted"> - add a user</span></li>
       <li><a class="btn btn--ghost" href="read.php">Read</a> <span class="muted"> - find a user</span></li>
-      <li><a class="btn btn--ghost" href="update.php">Read</a> <span class="muted"> - edit a user</span></li>
+      <li><a class="btn btn--ghost" href="update.php">Update</a> <span class="muted"> - edit a user</span></li>
     </ul>
   </div>
 
   <div class="note">
-    <strong>Tip:</strong> We can use “Create” to insert a few test users, then “Read” to filter by <em>Location</em>.
+    <strong>Tip:</strong> Use “Create” to insert a few test users, then “Read” to filter by <em>Location</em>.
   </div>
 </section>
 
